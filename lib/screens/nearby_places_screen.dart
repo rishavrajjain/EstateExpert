@@ -14,7 +14,7 @@ class NearByPlacesScreen extends StatefulWidget {
 
 class _NearByPlacesScreenState extends State<NearByPlacesScreen> {
 
-  String apiKey = "";
+  String apiKey = "AIzaSyDWadT4xaPdumCnDpH_1RkgzfjBiV8BMI8";
   String radius = "30";
 
   double latitude = 31.5111093;
